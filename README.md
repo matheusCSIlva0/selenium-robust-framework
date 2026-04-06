@@ -74,10 +74,10 @@ Framework moderno, robusto e profissional para automação de testes com Seleniu
 - Repositório: https://github.com/matheusCSIlva0/selenium-robust-framework
 - Autor: Matheus — foco em automação robusta para e-commerces.
 
-## Proposta Comercial (opcional)
-Use este template caso queira apresentar o framework a um cliente:
+## Proposta Comercial  
+ 
 ```markdown
-Assunto: Framework Profissional de Automação de Testes para seu E-commerce
+ Framework Profissional de Automação de Testes para seu E-commerce
 
 Olá,
 
