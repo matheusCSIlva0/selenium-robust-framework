@@ -1,0 +1,25 @@
+package br.com.curso.seleniumframework.utils;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+public class ConfigReader {
+
+    private static Properties properties;
+
+    static {
+        try (InputStream input = ConfigReader.class.getClassLoader().getResourceAsStream("config.properties")) {
+            properties = new Properties();
+            if (input != null) {
+                properties.load(input);
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Não foi possível carregar config.properties", e);
+        }
+    }
+
+    public static String getProperty(String key) {
+        return properties.getProperty(key);
+    }
+}

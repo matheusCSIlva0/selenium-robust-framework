@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium Robust Framework - E-commerce" parallel="tests" thread-count="3" verbose="2">
+
+    <test name="Fluxos de Compra">
+        <classes>
+            <class name="br.com.curso.seleniumframework.tests.CompraSimplesTest"/>
+        </classes>
+    </test>
+
+</suite>
