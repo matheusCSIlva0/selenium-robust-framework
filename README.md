@@ -98,9 +98,10 @@ Entrego:
 - 1 hora de explicação + treinamento
 - 30 dias de suporte
 
-Valor: R$ 9.500 (ou US$ 1.700)
+Valor: R$ 4.900 (ou US$ 850)
 Prazo: 7 a 10 dias úteis após aprovação do escopo.
 
+Somente o código:  
 Podemos agendar uma call rápida (15 minutos) para demonstrar o framework ao vivo?
 
 Atenciosamente,
