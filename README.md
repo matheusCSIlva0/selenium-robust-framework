@@ -101,7 +101,7 @@ Entrego:
 Valor: R$ 4.900 (ou US$ 850)
 Prazo: 7 a 10 dias úteis após aprovação do escopo.
 
-Somente o código:  
+Somente o código: R$2.900 (ou US$ 500)
 Podemos agendar uma call rápida (15 minutos) para demonstrar o framework ao vivo?
 
 Atenciosamente,
